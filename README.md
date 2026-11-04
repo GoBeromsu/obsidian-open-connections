@@ -2,7 +2,7 @@
 
 Chat with your notes & see links to related content with Local or Remote models.
 
-![The Connections view for a note about composting lists the most related notes, such as Tomato Seedlings and Raised Beds, ranked by similarity, with embedding progress in the status bar. Sample notes.](https://raw.githubusercontent.com/Xia-Ataraxia/obsidian-open-connections/main/docs/assets/connections.png)
+![The Connections view for a note about composting lists the most related notes, such as Tomato Seedlings and Raised Beds, ranked by similarity, with embedding progress in the status bar. Sample notes.](https://raw.githubusercontent.com/GoBeromsu/obsidian-open-connections/main/docs/assets/connections.png)
 
 ## Features
 
@@ -25,7 +25,7 @@ Desktop only, Obsidian 1.13.0 or later.
 
 **Community plugins**: open Settings, Community plugins, Browse, search for "Open Connections", then Install and Enable.
 
-**Manual**: download `main.js`, `manifest.json` and `styles.css` from the [latest release](https://github.com/Xia-Ataraxia/obsidian-open-connections/releases/latest) into `<vault>/<configDir>/plugins/open-connections/`, then enable the plugin. `<configDir>` is your vault's configuration folder (`.obsidian` by default).
+**Manual**: download `main.js`, `manifest.json` and `styles.css` from the [latest release](https://github.com/GoBeromsu/obsidian-open-connections/releases/latest) into `<vault>/<configDir>/plugins/open-connections/`, then enable the plugin. `<configDir>` is your vault's configuration folder (`.obsidian` by default).
 
 ## Disclosures
 
